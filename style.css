@@ -1,0 +1,51 @@
+body{
+    text-align: center ;
+    background-color: aqua ;
+}
+.menu{
+    float: left ;
+    list-style: none ;
+    font-family: fantasy ;
+    position: absolute ;
+    cursor: pointer ;
+    z-index: 10 ;
+    margin-top: 10px ;
+    margin-right: 30px ;
+    font-size: 20px ;
+    color: #240059 ;
+    background-color: antiquewhite ;
+}
+.hobbies2{
+    font-size: 30px ;
+    color: brown ;
+}
+#hobbies{
+    font-size:  50px ;
+     background-color: #bd93a0 ;
+}
+#section2{
+    background-color: #7f63d6 ;
+}
+#hr1{
+    width: 150px;
+    height: 7px;
+    background-color: yellow ;
+}
+p{
+    color:white ;
+    font-size: 30px ;
+}
+#section3{
+     background-color: #6cc472 ;
+}
+#hr2{
+    width: 900px;
+    height: 7px;
+    background-color: yellow ;
+}
+#section4{
+     background-color: #6cc472 ;
+}
+.google{
+    font-size: 30px ;
+}
